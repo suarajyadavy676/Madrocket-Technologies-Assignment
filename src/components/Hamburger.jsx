@@ -45,7 +45,7 @@ function Hamburger() {
                 <Link to="/">Home</Link>
               </p>
               <p className="my-6 hover:text-red-500"><Link to='/about'>About Us</Link></p>
-              <p className="my-6 hover:text-red-500"><Link to="/academic">Academics</Link></p>
+              <p className="my-6 hover:text-red-500"><Link to="/academics">Academics</Link></p>
               <p className="my-6 hover:text-red-500"><Link to="/admissions">Admissions</Link></p>
               <p className="my-6 hover:text-red-500"><Link to="/faculty">Faculty</Link></p>
               <p className="my-6 hover:text-red-500"><Link to="/students">Student</Link></p>
