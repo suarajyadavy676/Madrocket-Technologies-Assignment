@@ -17,8 +17,8 @@ function ContactForm() {
     })
   }
   return (
-    <div className="min-h-screen flex items-center justify-center animate__animated animate__backInDown">
-      <form onSubmit={handleSubmit} method="post">
+    <div className="min-h-screen  flex items-center justify-center animate__animated animate__backInDown">
+      <form onSubmit={handleSubmit} method="post" className="text-black">
         <div className="bg-white p-8 rounded-lg shadow-lg max-w-md w-full">
           <h1 className="text-2xl font-bold text-gray-800 mb-6">Contact Us</h1>
           <div className="mb-4">
